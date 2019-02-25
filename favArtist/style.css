@@ -1,0 +1,46 @@
+body {
+  background-color: grey;
+  background-image: linear-gradient(white,grey);
+}
+
+h3 {
+  color: navy;
+  text-align:center;
+  font-family:Courier;
+  text-decoration: underline;
+  text-shadow: 1px 1px navy;
+}
+p { 
+  color: maroon;  
+  text-align:center;
+  font-family:"Courier New", Courier, monospace;
+}
+img {
+  border-style: solid;
+  border-color: #91274F;
+  text-align: center ;
+  padding: 25px;
+  margin: 70px;
+}
+button {
+  background-color: #555555; /* Black */
+  border: 2px solid #f44336; /* red */;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+h2 { 
+  color: navy;
+  text-align:center;
+  font-family:Courier;
+  text-decoration: underline;
+  text-shadow: 1px 1px navy;
+}
+p2 { 
+  color: maroon;  
+  text-align: left;
+  font-family:"Courier New", Courier, monospace;
+}
